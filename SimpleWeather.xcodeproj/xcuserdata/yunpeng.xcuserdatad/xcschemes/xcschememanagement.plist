@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>SimpleWeather WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>SimpleWeather.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>F2E56B861B7DA56100547E36</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F2E56BA51B7DA62600547E36</key>
 		<dict>
 			<key>primary</key>
 			<true/>
