@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F20A84E41B9D3C360028EAEC /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F20A84E31B9D3C360028EAEC /* icon.png */; };
 		F2E56B741B7DA56000547E36 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F2E56B731B7DA56000547E36 /* main.m */; };
 		F2E56B771B7DA56000547E36 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F2E56B761B7DA56000547E36 /* AppDelegate.m */; };
 		F2E56B7A1B7DA56000547E36 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F2E56B791B7DA56000547E36 /* ViewController.m */; };
@@ -61,6 +62,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F20A84E31B9D3C360028EAEC /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		F2E56B6E1B7DA56000547E36 /* SimpleWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2E56B721B7DA56000547E36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2E56B731B7DA56000547E36 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -135,6 +137,7 @@
 		F2E56B701B7DA56000547E36 /* SimpleWeather */ = {
 			isa = PBXGroup;
 			children = (
+				F20A84E31B9D3C360028EAEC /* icon.png */,
 				F2E56B751B7DA56000547E36 /* AppDelegate.h */,
 				F2E56B761B7DA56000547E36 /* AppDelegate.m */,
 				F2E56B781B7DA56000547E36 /* ViewController.h */,
@@ -333,6 +336,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F20A84E41B9D3C360028EAEC /* icon.png in Resources */,
 				F2E56B7D1B7DA56000547E36 /* Main.storyboard in Resources */,
 				F2E56B821B7DA56000547E36 /* LaunchScreen.xib in Resources */,
 				F2E56B7F1B7DA56000547E36 /* Images.xcassets in Resources */,
@@ -650,6 +654,7 @@
 				F2E56B931B7DA56100547E36 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F2E56B941B7DA56100547E36 /* Build configuration list for PBXNativeTarget "SimpleWeatherTests" */ = {
 			isa = XCConfigurationList;
@@ -658,6 +663,7 @@
 				F2E56B961B7DA56100547E36 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F2E56BB51B7DA62600547E36 /* Build configuration list for PBXNativeTarget "SimpleWeather WatchKit App" */ = {
 			isa = XCConfigurationList;
@@ -666,6 +672,7 @@
 				F2E56BB71B7DA62600547E36 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F2E56BB81B7DA62600547E36 /* Build configuration list for PBXNativeTarget "SimpleWeather WatchKit Extension" */ = {
 			isa = XCConfigurationList;
@@ -674,6 +681,7 @@
 				F2E56BBA1B7DA62600547E36 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
